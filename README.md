@@ -9,7 +9,7 @@
 - [D3 Template](D3_Sunburst_Template.html)
 
 # Notes
-**Notes** notes
+**Notes** ...
 
 <br>
 <div>Last updated: {{site.time | date_to_string}}</div>
