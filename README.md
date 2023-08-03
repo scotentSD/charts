@@ -11,8 +11,6 @@
 ## CX Chart
 - [cx](cx.html)
 
-- ## Timeline
-- [Timeline](timeline.html)
 
 
 ## Notes
